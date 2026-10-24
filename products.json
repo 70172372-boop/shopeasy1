@@ -1,0 +1,12 @@
+[
+    { "id": 1, "name": "Laptop", "price": 1200, "category": "electronics", "rating": 4.6, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 2, "name": "Smartphone", "price": 800, "category": "electronics", "rating": 4.5, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 3, "name": "Headphones", "price": 150, "category": "electronics", "rating": 4.2, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 4, "name": "T-Shirt", "price": 25, "category": "clothing", "rating": 4.0, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 5, "name": "Jeans", "price": 50, "category": "clothing", "rating": 4.3, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 6, "name": "Jacket", "price": 110, "category": "clothing", "rating": 4.7, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 7, "name": "JS Programming Book", "price": 40, "category": "books", "rating": 4.8, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 8, "name": "Web Dev Guide", "price": 35, "category": "books", "rating": 4.4, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 9, "name": "Smart Watch", "price": 200, "category": "electronics", "rating": 4.1, "inStock": true, "image": "https://via.placeholder.com/150" },
+    { "id": 10, "name": "Backpack", "price": 60, "category": "clothing", "rating": 4.5, "inStock": true, "image": "https://via.placeholder.com/150" }
+  ]
